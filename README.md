@@ -1,1 +1,1 @@
-# personal-projects
+# personal-projects getting familiar with Jupyter Notebook
